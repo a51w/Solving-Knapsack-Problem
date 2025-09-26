@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733987927 source:c:\users\lamoooose\documents\lamooose\stuftf\studty na ngub\cpe 2\algorithm\project\knapsack 1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
